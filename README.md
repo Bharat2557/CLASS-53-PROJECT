@@ -1,4 +1,4 @@
-# CLASS-53-PROJECTLet's Get Started, Coder!!
+Let's Get Started, Coder!!
 Fill the following Document
 __________________________________________________________________________
 
